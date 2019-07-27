@@ -4,4 +4,3 @@ random.choice( string.digits+string.ascii_uppercase )+
 random.choice( string.digits+string.ascii_uppercase )+
 random.choice( string.digits+string.ascii_uppercase )+
 random.choice( string.digits+string.ascii_uppercase ) )
-# print(string.digits+string.ascii_uppercase)
