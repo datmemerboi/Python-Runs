@@ -16,3 +16,5 @@ Mostly `coded` when bored.
 **XYZreplace** - to find number of x, y, z combination alternates available. ( XY->Z, YZ->X, ZX->Y )
 
 **luckynumber** - in a given range, find if sum of digits and sum of non-digits is composite
+
+**AnagramFinder** - to find the total number of anagrams in the given sentences wrt the word set provided
