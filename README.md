@@ -18,3 +18,7 @@ Mostly `coded` when bored.
 **luckynumber** - in a given range, find if sum of digits and sum of non-digits is composite
 
 **AnagramFinder** - to find the total number of anagrams in the given sentences wrt the word set provided
+
+**Repetitive Replace** - Replace the words in line 1 by words in line 2 which have same repeating letters
+
+**Maximize It** - works on finding the maximum sum of squres % value of M
